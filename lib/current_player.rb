@@ -4,6 +4,6 @@ count = 0
   if pos != " " && pos != ""
     count += 1
   end
-  count
+  return count
 end
 end
